@@ -1,0 +1,17 @@
+[
+    {
+      "Title": "Product 1",
+      "Category": "food",
+      "Price": 10
+    },
+    {
+      "Title": "Product 2",
+      "Category": "food",
+      "Price": 20
+    },
+    {
+      "Title": "Product 3",
+      "Category": "others",
+      "Price": 30
+    }
+  ]
